@@ -123,5 +123,9 @@
   "engines": {
     "node": ">=12.13.0",
     "yarn": ">=1.0.0"
+  },
+  "stackblitz": {
+    "installDependencies": false,
+    "startCommand": "cd examples/ts-loader && yarn install && yarn dev"
   }
 }
