@@ -126,6 +126,6 @@
   },
   "stackblitz": {
     "installDependencies": false,
-    "startCommand": "cd examples/ts-loader && yarn install && yarn dev"
+    "startCommand": "cd examples/ts-loader-monorepo && yarn install && yarn dev"
   }
 }
