@@ -9,6 +9,7 @@
     },
     "devDependencies": {
       "fork-ts-checker-webpack-plugin": "^7.2.8",
+      "fork-ts-checker-webpack-plugin-ts-loader-monorepo-example-util": "*",
       "ts-loader": "^9.2.9",
       "typescript": "^4.6.4",
       "webpack": "^5.72.0",

@@ -11,6 +11,6 @@
     "fork-ts-checker-webpack-plugin-ts-loader-monorepo-example-main": "*"
   },
   "workspaces": [
-    "packages/main"
+    "packages/*"
   ]
 }

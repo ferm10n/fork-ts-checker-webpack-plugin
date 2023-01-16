@@ -1,0 +1,9 @@
+{
+    "name": "fork-ts-checker-webpack-plugin-ts-loader-monorepo-example-util",
+    "version": "0.0.0",
+    "license": "MIT",
+    "devDependencies": {
+      "typescript": "^4.6.4"
+    }
+  }
+  
